@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BausCode::Words]]></title>
+        <description><![CDATA[BausCode::Words]]></description>
+        <link>https://thegrid.ai/bauswords/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jan 2016 22:22:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bauswords/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[denver pocket puzzle]]></title>
+            <description><![CDATA[<article><h1>denver pocket puzzle</h1><p>Just launched over on the pocketgov website. Try it out at https://www.denvergov.org/pocketgov/#/puzzle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea23167c186d6d89cc338ce04464af7ea99cc9cd.png"></article>]]></description>
+            <link>https://thegrid.ai/bauswords/denver-pocket-puzzle/index.html</link>
+            <guid isPermaLink="false">dc2c195a-734f-495b-917d-70367072a086</guid>
+            <pubDate>Thu, 21 Jan 2016 22:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boilerplate]]></title>
+            <description><![CDATA[<article><h1>Boilerplate</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90f4d98362a5ee62f0f92caef5e57805485b293b.png"></article>]]></description>
+            <link>https://thegrid.ai/bauswords/boilerplate/index.html</link>
+            <guid isPermaLink="false">305e262b-7809-40cf-a0ef-5985c904ed28</guid>
+            <pubDate>Tue, 05 Jan 2016 21:02:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
