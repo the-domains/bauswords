@@ -4,8 +4,15 @@
         <description><![CDATA[BausCode::Words]]></description>
         <link>https://thegrid.ai/bauswords/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 22:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 21:41:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauswords/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet BausCode]]></title>
+            <description><![CDATA[<article><h1>Meet BausCode</h1><p>We're BausCode, it's nice to meet you! BausCode was formed from independent developers who met working together while leading the Interactive Development and Technology team at Crispin, Porter + Bogusky. After a long period of time, we all began to seek varying career paths only to be frustrated with the quality of work and unmet demand in the workplace. In January 2016, we officially joined forces to help our established client base and new companies to create rich interactive applications to reinforce brand engagement and products . </p></article>]]></description>
+            <link>https://thegrid.ai/bauswords/meet-bauscode/index.html</link>
+            <guid isPermaLink="false">09b3ef63-ecfc-44a6-b0b9-84d300c52a64</guid>
+            <pubDate>Sat, 23 Jan 2016 21:41:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[denver pocket puzzle]]></title>
             <description><![CDATA[<article><h1>denver pocket puzzle</h1><p>Just launched over on the pocketgov website. Try it out at https://www.denvergov.org/pocketgov/#/puzzle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea23167c186d6d89cc338ce04464af7ea99cc9cd.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Boilerplate]]></title>
-            <description><![CDATA[<article><h1>Boilerplate</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90f4d98362a5ee62f0f92caef5e57805485b293b.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Boilerplate</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a87516518dbfd98de8893621a46264b737836f51.png"></article>]]></description>
             <link>https://thegrid.ai/bauswords/boilerplate/index.html</link>
             <guid isPermaLink="false">305e262b-7809-40cf-a0ef-5985c904ed28</guid>
             <pubDate>Tue, 05 Jan 2016 21:02:05 GMT</pubDate>
